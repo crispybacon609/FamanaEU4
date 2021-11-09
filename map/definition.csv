@@ -1,0 +1,219 @@
+province;red;green;blue;x;x
+1;128;34;64;waste;x
+2;0;36;128;sea;x
+3;44;140;0;test;x
+4;172;138;255;test;x
+5;172;142;64;test;x
+6;44;144;128;test;x
+7;44;148;255;test;x
+8;72;0;240;test;x
+9;49;84;64;test;x
+10;45;156;192;test;x
+11;173;154;128;test;x
+12;173;150;0;test;x
+13;49;80;255;test;x
+14;177;82;0;test;x
+15;176;74;64;test;x
+16;176;70;255;test;x
+17;51;112;0;test;x
+18;51;108;192;test;x
+19;47;60;255;test;x
+20;48;244;64;test;x
+21;176;66;128;test;x
+22;175;58;192;test;x
+23;175;62;0;test;x
+24;175;54;64;test;x
+25;46;48;192;test;x
+26;47;56;128;test;x
+27;48;72;0;test;x
+28;45;152;64;test;x
+29;48;68;192;test;x
+30;173;34;64;test;x
+31;46;36;128;test;x
+32;45;32;0;test;x
+33;173;158;255;test;x
+34;174;38;192;test;x
+35;174;42;0;test;x
+36;46;40;255;test;x
+37;47;52;0;test;x
+38;46;44;64;test;x
+39;175;50;255;test;x
+40;191;158;128;test;x
+41;191;146;64;test;x
+42;62;144;0;test;x
+43;179;110;255;test;x
+44;179;114;64;test;x
+45;180;126;128;test;x
+46;52;124;64;test;x
+47;52;120;255;test;x
+48;52;128;192;test;x
+49;49;88;192;test;x
+50;50;92;0;test;x
+51;181;134;64;test;x
+52;181;138;192;test;x
+53;53;136;128;test;x
+54;52;132;0;test;x
+55;180;122;0;test;x
+56;180;130;255;test;x
+57;51;116;128;test;x
+58;179;118;192;test;x
+59;179;106;128;test;x
+60;50;104;64;test;x
+61;178;94;64;test;x
+62;50;100;255;test;x
+63;178;102;0;test;x
+64;50;96;128;test;x
+65;177;78;192;test;x
+66;48;76;128;test;x
+67;178;98;192;test;x
+68;177;90;255;test;x
+69;177;86;128;test;x
+70;63;148;128;test;x
+71;63;152;255;test;x
+72;63;156;64;test;x
+73;191;154;0;test;x
+74;64;32;192;test;x
+75;191;150;192;test;x
+76;67;80;128;test;x
+77;67;76;0;test;x
+78;66;72;192;test;x
+79;192;42;192;test;x
+80;192;38;64;test;x
+81;185;74;0;test;x
+82;195;78;64;test;x
+83;195;74;255;test;x
+84;66;64;255;test;x
+85;194;62;192;test;x
+86;193;58;64;test;x
+87;193;54;255;test;x
+88;65;52;192;test;x
+89;64;44;255;test;x
+90;192;34;255;test;x
+91;193;46;0;test;x
+92;65;48;64;test;x
+93;66;60;128;test;x
+94;66;68;64;test;x
+95;194;70;128;test;x
+96;194;66;0;test;x
+97;64;36;0;test;x
+98;58;76;64;test;x
+99;186;78;128;test;x
+100;219;38;192;test;x
+101;58;80;192;test;x
+102;186;86;64;test;x
+103;186;82;255;test;x
+104;58;88;128;test;x
+105;58;84;0;test;x
+106;187;94;0;test;x
+107;59;96;64;test;x
+108;59;92;255;test;x
+109;187;90;192;test;x
+110;185;70;192;test;x
+111;185;66;64;test;x
+112;57;68;128;test;x
+113;94;72;0;test;x
+114;222;74;64;test;x
+115;94;76;128;test;x
+116;222;78;192;test;x
+117;223;82;0;test;x
+118;94;80;255;test;x
+119;95;84;64;test;x
+120;223;86;128;test;x
+121;223;90;255;test;x
+122;95;88;192;test;x
+123;223;94;64;test;x
+124;95;92;0;test;x
+125;96;96;128;test;x
+126;224;98;192;test;x
+127;225;110;255;test;x
+128;97;112;0;test;x
+129;225;114;64;test;x
+130;96;108;192;test;x
+131;224;102;0;test;x
+132;224;106;128;test;x
+133;96;104;64;test;x
+134;96;100;255;test;x
+135;223;82;0;Constantinople;x
+136;57;72;255;test;x
+137;64;40;128;test;x
+138;193;50;128;Constantinople;x
+139;65;48;64;test;x
+140;65;56;0;test;x
+141;207;120;0;waste;x
+142;34;34;92;waste;x
+143;255;23;52;waste;x
+144;19;0;239;waste;x
+145;132;118;0;waste;x
+146;128;34;64;waste;x
+147;84;0;200;waste;x
+148;177;255;119;waste;x
+149;84;179;209;waste;x
+150;0;114;100;waste;x
+151;0;195;193;waste;x
+152;0;22;193;waste;x
+153;30;90;128;waste;x
+154;0;96;128;waste;x
+155;0;139;128;waste;x
+156;84;34;209;waste;x
+157;180;57;225;Constantinople;x
+158;158;132;110;Constantinople;x
+159;42;72;66;Constantinople;x
+160;184;151;67;Constantinople;x
+161;102;225;57;Constantinople;x
+162;137;71;155;Lake;x
+163;71;155;154;Lake;x
+164;8;59;58;Lake;x
+165;74;111;117;Lake;x
+166;134;157;185;Lake;x
+167;134;185;168;Lake;x
+168;35;86;100;Lake;x
+169;46;31;213;lake;x
+170;8;31;130;lake;x
+171;96;134;159;sea;x
+172;119;124;172;sea;x
+173;52;76;91;sea;x
+174;73;99;130;sea;x
+175;137;126;166;sea;x
+176;100;158;164;Umzat Strait;x
+177;156;202;206;Laglon Strait;x
+178;126;139;166;Gromash Coast;x
+179;88;129;161;Strait of Arlenta;x
+180;70;89;127;Purple Bay;x
+181;38;55;58;Coast of Pextum;x
+182;143;161;164;White Sea;x
+183;98;124;147;Makyna Mouth;x
+184;122;168;208;Vaxi Coast;x
+185;39;64;67;Thalmor Coast;x
+186;109;163;170;Thalmor Bay;x
+187;85;128;134;Gomic Ridge;x
+188;106;146;152;Ranyaf Strait;x
+189;145;189;195;Eyath Strait;x
+190;52;117;173;Red Ridge;x
+191;96;109;120;Morian Coast;x
+192;127;155;179;Tilav Sea;x
+193;118;179;232;Great Crossing;x
+194;49;73;94;Arian Shelf;x
+195;97;145;188;Elwaiti Coast;x
+196;110;169;221;Bay of Roana;x
+197;79;103;124;Bay of Emastalia;x
+198;32;62;66;Inner Gomic Strait;x
+199;137;200;208;Strait of Lerush;x
+200;31;52;71;Xalian Sea;x
+201;78;131;179;Moxon Archipelago;x
+202;17;72;79;Bay of Delk;x
+203;137;214;224;Hovaki Coast;x
+204;70;86;142;Hoxoi Coast;x
+205;156;171;184;Harmanul Approach;x
+206;0;36;128;Bay of Kinvirel;x
+207;200;220;238;Kapolian Coast;x
+208;127;155;179;Morian Approaches;x
+209;179;172;115;Constantinople;x
+210;255;225;0;Constantinople;x
+211;53;55;75;Constantinople;x
+212;223;127;54;Constantinople;x
+213;94;55;25;Constantinople;x
+214;182;116;66;Constantinople;x
+215;232;199;173;Constantinople;x
+216;68;121;155;Lake;x
+217;55;101;131;Lake;x
+218;191;181;107;Constantinople;x

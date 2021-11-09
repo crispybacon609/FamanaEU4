@@ -1,0 +1,41 @@
+width = 3200
+height = 2048
+
+max_provinces = 2303
+
+sea_starts = { 217  216  211  208  207  206  205  204  203  202  201  200  199  198  197  196  195  194  193  192  191  190  189  188  187  186  185  184  183  182  181  180  179  178  177  176  175  174  173  172  171  164  163  162  155  154  153  152  151  150  2 
+
+}
+
+only_used_for_random = {
+	138 139 140
+}
+
+lakes = {
+	170  169  168  167  166  165  216  217
+}
+
+force_coastal = {
+}
+
+definitions = "definition.csv"
+provinces = "provinces.bmp"
+positions = "positions.txt"
+terrain = "terrain.bmp"
+rivers = "rivers.bmp"
+terrain_definition = "terrain.txt"
+heightmap = "heightmap.bmp"
+tree_definition = "trees.bmp"
+continent = "continent.txt"
+adjacencies = "adjacencies.csv"
+climate = "climate.txt"
+region = "region.txt"
+superregion = "superregion.txt"
+area = "area.txt"
+provincegroup = "provincegroup.txt"
+ambient_object = "ambient_object.txt"
+seasons = "seasons.txt"
+trade_winds = "trade_winds.txt"
+
+# Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
+tree = { 3 4 7 10 }
