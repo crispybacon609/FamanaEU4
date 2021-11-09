@@ -1,0 +1,168 @@
+# If you add religions, and use those tags, do not change them without changing everywhere they are used.
+
+gomic_pagan_group = {
+	flag_emblem_index_range = { 83 96 }
+	mak = {
+		icon = 5
+		color = { 184 55 24 }
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country = {
+			defensiveness = 0.20
+			tolerance_own = 2
+		}
+		
+		heretic = { HALOGENITE XALNISH OPPIAN }	
+	}
+	egr = {
+		icon = 6
+		color = { 144 133 104 }
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country = {
+			diplomatic_reputation = 1
+			trade_efficiency = 0.1
+		}
+		
+		heretic = { NIKTAV KINCAR }	
+	}
+	gadan = {
+		icon = 9
+		color = { 80 58 43 }
+		province = {
+			local_missionary_strength = 0.01
+		}
+		country = {
+			leader_cost = -0.10
+			improve_relation_modifier = 0.15
+		}
+		
+		heretic = { MAK MOR DELK }	
+	}
+	harmonized_modifier = harmonized_pagan
+	
+	crusade_name = HOLY_WAR
+	
+}
+
+xalian_group = {
+	flag_emblem_index_range = { 83 96 }
+	
+	delkian = {
+		icon = 10
+		color = { 86 154 64 }
+		country = {
+			defensiveness = 0.20
+			tolerance_own = 2
+		}
+		
+		heretic = { MOR VIN SHIR }	
+	}
+	vinian = {
+		icon = 12
+		color = { 86 154 64 }
+		country = {
+			naval_morale = 0.1
+			development_cost = -0.1
+		}
+		
+		heretic = { MOR DELK SHIR }	
+	}
+	morian = {
+		icon = 11
+		color = { 255 89 16 }
+		country = {
+			infantry_power = 0.10
+			production_efficiency = 0.10
+		}
+		
+		heretic = { DELK VIN SHIR }	
+	}
+	shirian = {
+		icon = 13
+		color = { 238 214 255 }
+		country = {
+			advisor_cost = -0.10
+			diplomatic_reputation = 1
+		}
+		hidden_effect = {
+			advisor_pool = 1
+		}
+		
+		heretic = { MOR VIN DELK }	
+	}
+
+	harmonized_modifier = harmonized_pagan
+	
+	crusade_name = HOLY_WAR
+	
+}
+
+far_eastern_gomic = {
+	flag_emblem_index_range = { 83 96 }
+
+	bamali = {
+		icon = 15
+		color = { 255 140 78 }
+		country = {
+			land_morale = 0.10
+			advisor_pool = 1
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		allowed_conversion = {
+			eastern_oppian
+		}
+		
+		heretic = { YEV THEIST }	
+	}
+	bilik = {
+		icon = 14
+		color = { 69 106 58 }
+		country = {
+			development_cost = -0.10
+			tolerance_own = 2
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { THEIST }	
+	}
+	aresian = {
+		icon = 16
+		color = { 186 98 41 }
+		country = {
+			heir_chance = 1.0
+			tolerance_heathen = 2
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { THEIST }	
+	}
+	va = {
+		icon = 17
+		color = { 255 224 93 }
+		country = {
+			technology_cost = -0.1
+			advisor_cost = -0.25
+		}
+		country_as_secondary = {
+			tolerance_heretic = -1
+			tolerance_heathen = -1
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { THEIST }	
+	}
+
+	harmonized_modifier = harmonized_pagan
+	crusade_name = HOLY_WAR
+}
